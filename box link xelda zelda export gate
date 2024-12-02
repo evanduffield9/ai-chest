@@ -1,0 +1,39 @@
+restart 
+
+connect 
+       hair 
+           gen 
+              stat 
+                  stat 
+                      gen 
+                            engine  stat
+
+restart 
+
+connect 
+       hair 
+
+generate 
+        style 
+
+        boss
+            next 
+
+                id
+                  stat 
+                      engine 
+                             current 
+                                    phase 
+                                         current 
+                                                link 
+                                                    stat 
+                                                        engine
+                                                              stat 
+                                                                  coffee 
+                                                                        link 
+                                                                            stat 
+gate 
+    connect 
+
+connect 
+       team 
