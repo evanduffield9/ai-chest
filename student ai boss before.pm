@@ -1,3 +1,20 @@
+game
+
+io ticket phase
+
+      ui 
+game 
+
+gamne 
+
+movie 
+
+34 
+
+next 
+
+next movie 
+
 next step
 
 phase
